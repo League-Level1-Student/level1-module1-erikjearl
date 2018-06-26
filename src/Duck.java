@@ -16,7 +16,7 @@ public class Duck {
 		System.out.println(name + " has " + numberOfFriends + " Friends");
 		
 	}
-	
+
 }
 
 
